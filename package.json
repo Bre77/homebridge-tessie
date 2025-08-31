@@ -3,10 +3,10 @@
   "displayName": "Tessie",
   "name": "homebridge-tessie",
   "description": "Connect Homebridge to your Tessie account.",
-  "homepage": "https://github.com/Teslemetry/homebridge/tree/tessie?tab=readme-ov-file",
-  "repository": "github:teslemetry/homebridge#tessie",
+  "homepage": "https://github.com/Bre77/homebridge-tessie?tab=readme-ov-file",
+  "repository": "github:Bre77/homebridge-tessie",
   "bugs": {
-    "url": "https://github.com/teslemetry/homebridge/issues/new/choose"
+    "url": "https://github.com/Bre77/homebridge-tessie/issues/new/choose"
   },
   "type": "module",
   "license": "Apache-2.0",
